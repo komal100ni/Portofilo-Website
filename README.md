@@ -10,10 +10,10 @@ A portfolio web site completely made in html css and javascript from ground up.
 
 ### In dark mode
 
-![In dark mode](./preview/dark.png)
+![In dark mode](dark.png)
 
 ### In light mode
 
-![In light mode](./preview/light.png)
+![In light mode](light.png)
 
 <---- There is some error in uploading  entire file folder so i have uploaded files directly. ---->
